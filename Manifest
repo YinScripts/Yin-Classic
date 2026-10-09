@@ -1,0 +1,26 @@
+return {
+    {
+        es = "Ocultar GUIs",
+        en = "Hide GUIs",
+        file = "YinYang_ClassicOptions.lua",
+        key = "HideGuis",
+    },
+    {
+        es = "Ajustar FOV",
+        en = "Adjust FOV",
+        file = "YinYang_ClassicOptions.lua",
+        key = "FOVAdjust",
+    },
+    {
+        es = "Waypoint",
+        en = "Waypoint",
+        file = "YinYang_ClassicOptions.lua",
+        key = "Waypoint",
+    },
+    {
+        es = "Optimizar Rendimiento",
+        en = "Performance Optimizer",
+        file = "YinYang_ClassicOptions.lua",
+        key = "PerformanceOptimizer",
+    },
+}
