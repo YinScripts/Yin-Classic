@@ -1,6 +1,6 @@
 <div align="center">
 
-![Yin Classic: funciones clásicas para Yin Yang](docs/assets/yin-classic.jpg)
+![Yin Classic: funciones clásicas para Yin Yang](docs/assets/classic-portada-v2.jpg)
 
 # Yin Classic ✨
 
@@ -28,7 +28,7 @@ El catálogo actual reúne cuatro opciones para la pestaña Classic:
 
 Yin UI consulta el `Manifest` para conocer las opciones disponibles. Cada entrada identifica su nombre en español e inglés y la clave de la función; la pestaña Classic crea los controles correspondientes y carga el script externo cuando se activa una opción.
 
-La portada muestra Yin Yang como ejemplo visual del proyecto; no es una captura de la pestaña Classic.
+![La pestaña Classic y sus opciones en Yin Yang](docs/assets/classic.jpg)
 
 ## Archivos
 
