@@ -15,7 +15,7 @@ Opciones prácticas reunidas en una pestaña.
 
 ## Funciones
 
-El catálogo actual reúne cuatro opciones para la pestaña Classic:
+El catálogo actual reúne cinco opciones para la pestaña Classic:
 
 | Opción | Descripción |
 | :--- | :--- |
@@ -23,6 +23,7 @@ El catálogo actual reúne cuatro opciones para la pestaña Classic:
 | **Ajustar FOV** | Permite ajustar el campo de visión. |
 | **Waypoint** | Una herramienta de puntos de referencia. |
 | **Optimizar rendimiento** | Reúne ajustes de rendimiento. |
+| **Unclock All Blade Ball** | |
 
 ## Cómo funciona
 

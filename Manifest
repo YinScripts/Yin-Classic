@@ -23,4 +23,11 @@ return {
         file = "YinYang_ClassicOptions.lua",
         key = "PerformanceOptimizer",
     },
+    {
+        es = "Unclock All Blade Ball",
+        en = "Unclock All Blade Ball",
+        file = "Unlock_All_BladeBall.lua",
+        key = "UnlockAllBladeBall",
+        url = "https://raw.githubusercontent.com/YinScripts/Yin-Classic/refs/heads/main/Unlock_All_BladeBall.lua",
+    },
 }
